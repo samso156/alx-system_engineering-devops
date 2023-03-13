@@ -1,1 +1,2 @@
-103-the_biggest_fan
+#!/bin/bash
+cut -c -1 | paste -sd ''
